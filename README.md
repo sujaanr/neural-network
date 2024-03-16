@@ -13,9 +13,7 @@ pip install numpy matplotlib
 
 To use the neural network, simply clone this repository and run the script:
 
-git clone <repository-url>
-
-cd <repository-directory>
+git clone [<repository-url>](https://github.com/sujaanr/Neural-Network.git)
 
 python neural_network.py
 
